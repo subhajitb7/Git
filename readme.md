@@ -1,5 +1,5 @@
-#Learn git from chai aur code
+# Learn git from chai aur code
 
-##Install
+## Install
 
 This is some installation instrucions
